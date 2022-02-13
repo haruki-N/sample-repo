@@ -1,4 +1,4 @@
 # sample-repo
 Git練習用
 
-Git
+ここはGitを練習するためのリポジトリです。
