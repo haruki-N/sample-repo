@@ -1,0 +1,26 @@
+This file is free space for practicing vim editor!
+You can edit this file as you like.
+h: move your cursor left
+j: move your cursor bottom
+k: move your cursor upward
+l: move your cursor right
+0: move your cursor to end of the sentence
+$: move your cursor to head of the sentence
+gg: move your cursor to the FIRST sentence
+G: move your cursor to the END sentence
+num + g: move your cursor to num-th sentence
+Ctrl + r: redo
+u: undo
+/query: search the query in the file. (Below your cursor)
+?query: search the query in the file. (Above your cursor)
+
+ 
+i or a: turn on INSERT mode. you can edit the file within this mode. put [esc] key to quit.
+yy: copy the sentence where you put your cursor
+p: paste
+
+This sentence is free for you.
+this sentence is free for you. this sentence si free for you.
+this sentence is free for you. That sentence may not be free.. There are some free sentences for you. Readly absorbed moisturing balm to effectively hydrate and soften hands. 
+this sentence is free for you. That sentence may not be free.. There are some free sentences for you. Readly absorbed moisturing balm to effectively hydrate and soften hands. 
+this sentence is free for you. That sentence may not be free.. There are some free sentences for you. Readly absorbed moisturing balm to effectively hydrate and soften hands. 
